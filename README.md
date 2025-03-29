@@ -26,7 +26,7 @@ I am a proficient full-stack developer passionate about designing and implementi
 - **LinkedIn AI Extension:** A Chrome extension that analyzes LinkedIn conversations and generates context-aware replies using AI.
 
   - *Tech Stack:* JavaScript, Node.js, Gemini API
-  - [View Project](https://github.com/yourusername/linkedin-ai-extension)
+  - [View Project](https://github.com/nikhilnagar29/LinkFlow-AI)
  
 - **Live Whiteboard:** A collaborative drawing tool with real-time updates.
 
