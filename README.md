@@ -10,33 +10,38 @@ I am a proficient full-stack developer passionate about designing and implementi
 
 ### 💻 Algorithmic Problem-Solving Skills
 
-- Solved over 270 problems on platforms like **Codeforces** and **LeetCode**.
+- Solved over 350+ problems on platforms like **Codeforces** and **LeetCode**.
 - Currently advancing my DSA skills on **AlgoZenith**, focusing on advanced techniques.
 
 ### 🛠️ My Tech Skills
 
 - **Frontend:** Tailwind CSS, ReactJS, JavaScript
-- **Backend:** Node.js, Express
+- **Backend:** Node.js, Express, FastAPI
 - **Database:** MongoDB, SQL, Redis
 - **Programming Languages:** C, C++, Python, JavaScript, 
 - **Tools:** Git, VS Code
 
 ### 📂 My Projects
 
-- **MyChess:** A real-time chess game with cross-device connectivity.
+- **LinkedIn AI Extension:** A Chrome extension that analyzes LinkedIn conversations and generates context-aware replies using AI.
 
-  - *Tech Stack:* Node.js, Socket.io, Chess.js, Express
-  - [View Project](https://nikhil-nagar.vercel.app/mychess)
+  - *Tech Stack:* JavaScript, Node.js, Gemini API
+  - [View Project](https://github.com/yourusername/linkedin-ai-extension)
+ 
+- **Live Whiteboard:** A collaborative drawing tool with real-time updates.
+
+  - *Tech Stack:* Rough.js, React, Tailwind CSS, Socket.io
+  - [View Project](https://nikhil-nagar.vercel.app/livewhiteboard)
 
 - **SocioGram:** A social media platform for sharing posts and following users.
 
   - *Tech Stack:* Express.js, MongoDB, NodeMailer, Multer, Twilio
   - [View Project](https://nikhil-nagar.vercel.app/sociogram)
+ 
+- **MyChess:** A real-time chess game with cross-device connectivity.
 
-- **Live Whiteboard:** A collaborative drawing tool with real-time updates.
-
-  - *Tech Stack:* Rough.js, React, Tailwind CSS, Socket.io
-  - [View Project](https://nikhil-nagar.vercel.app/livewhiteboard)
+  - *Tech Stack:* Node.js, Socket.io, Chess.js, Express
+  - [View Project](https://nikhil-nagar.vercel.app/mychess)
 
 ### 💞️ I’m looking to collaborate on
 
@@ -46,7 +51,7 @@ I am a proficient full-stack developer passionate about designing and implementi
 
 ### 🌱 I’m currently learning
 
-- Advanced-Data Structures and Algorithms
+- Advanced Data-Structures and Algorithms
 - Backend optimization techniques
 - Cloud deployment and DevOps tools
 
